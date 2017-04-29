@@ -260,7 +260,7 @@
 
     * [https://www.youtube.com/watch?v=FQwZrOAmMAc](https://www.youtube.com/watch?v=FQwZrOAmMAc) - Watch 10:00 - 20:50 for karma.config explanation. 
 
-SEO
+## SEO
 
 * Videos: [https://www.youtube.com/watch?v=mRj8YwBrLx8](https://www.youtube.com/watch?v=mRj8YwBrLx8) 
 
